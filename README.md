@@ -18,7 +18,7 @@ over time. And I have added an end game logic, when the cars collide it scores a
 
 
 
-## Features
+## ✨ Features
 
 - Light/dark mode toggle
 - Live previews
