@@ -1,4 +1,4 @@
-# SimpleCarGame
+# SimpleCarGame 🚗
 
 ### Description: 
 In this project, I have created a simple Video game with Pygame. I have used images of two cars. (My car and the Enemy car). The entire code I did on VS Code in python. It Increases the difficulty 
