@@ -5,7 +5,7 @@ In this project, I have created a simple Video game with Pygame. I have used ima
 over time. And I have added an end game logic, when the cars collide it scores and shows you lost, game is over. I put an animation parameter through which we can increase or decrease the speed.
 
 ### 
-## Preview:
+## 📍 Preview:
 ### 
 
 ![screenshot](https://user-images.githubusercontent.com/32107652/162980293-9d86b030-dcad-4427-8048-fd5498951dcb.png)
@@ -18,7 +18,7 @@ over time. And I have added an end game logic, when the cars collide it scores a
 
 
 
-## ✨ Features
+## 📍 Features
 
 - Light/dark mode toggle
 - Live previews
