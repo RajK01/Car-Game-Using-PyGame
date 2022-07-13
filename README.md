@@ -32,7 +32,7 @@ over time. And I have added an end game logic, when the cars collide it scores a
 <!--![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)-->
 
 
-## Authors
+## Author
 
 - Rajeev Kumar
 - Dependancies: Pygame, Random, Python 3.9
